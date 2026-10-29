@@ -26,12 +26,12 @@ Follow the instructions below to run the Minesweeper Rails application on your l
 1. Clone this repository to your local machine:
 
 ```    
-https://github.com/unikecode/minesweeper.git
+https://github.com/cstudeo/minesweeper-game.git
 ```
 
 2. Goto Project directory:
 ```
-cd minesweeper
+cd minesweeper-game
 ```
 
 3. Install the required gems:
